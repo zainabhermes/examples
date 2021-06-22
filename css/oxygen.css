@@ -18,6 +18,9 @@ titleStmt respStmt {
 *[xml|lang=ar] {
   direction: rtl;
 }
+*[xml|lang=tr-Arab] {
+  direction: rtl;
+}
 body {
   display:block;
   margin: 1em;
