@@ -26,12 +26,10 @@ p {
   display:block;
 }
 body p {
-	direction:rtl;
 	font-size: 20px;
 }
 body head {
   display:block;
-  direction:rtl;
   font-size:28px;
 }
 list {

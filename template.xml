@@ -16,9 +16,9 @@
          </sourceDesc>
       </fileDesc>
   </teiHeader>
-  <text>
+  <text xml:lang="ar">
       <body>
-         <p>Some text here.</p>
+        <p>اكتب بعض النص هنا.</p>
       </body>
   </text>
 </TEI>
